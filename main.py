@@ -18,7 +18,7 @@ from aiogram import F
 
 logging.basicConfig(level=logging.INFO)
 
-API_TOKEN = "8160270004:AAHpWYhTBpOQ7MGbr5s4z9fk8mm-_l-ZrLU"
+API_TOKEN = "TOKEN"
 
 bot = Bot(token=API_TOKEN)
 storage = MemoryStorage()
