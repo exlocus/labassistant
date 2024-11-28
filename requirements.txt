@@ -1,5 +1,4 @@
-aiogram==3.13.1
-aiohttp==3.10.6
-matplotlib==3.9.2
-numpy==2.1.1
-scipy==1.14.1
+aiogram
+sqlite3
+numpy
+matplotlib
